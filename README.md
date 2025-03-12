@@ -111,11 +111,10 @@ void IRsensor()
 
 ## Output  :
 ###LED ON(No Contact):
-![WhatsApp Image 2025-03-12 at 11 35 54 AM](https://github.com/user-attachments/assets/e7e8828d-b690-48ec-b3cd-ec9a83129d80)
+![image](https://github.com/user-attachments/assets/4d4d3ed9-6151-4e87-b6fd-f305afe45d9b)
 
  ###LED OFF(Contact):
-![WhatsApp Image 2025-03-12 at 11 35 53 AM](https://github.com/user-attachments/assets/c6dade14-4180-4474-b056-801f8fce3a85)
-
+![image](https://github.com/user-attachments/assets/a5f7f9c3-30d1-4b0f-a2c7-35240a8c1365)
 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
