@@ -111,10 +111,10 @@ void IRsensor()
 
 ## Output  :
 ###LED ON(No Contact):
-![image](https://github.com/user-attachments/assets/c10a0ffa-8a05-437e-ad3f-c595b5792f7b)
+![image](https://github.com/user-attachments/assets/751d2890-0a91-437f-9fb4-cb210b3276af)
 
  ###LED OFF(Contact):
-![image](https://github.com/user-attachments/assets/70624a88-b249-4d18-b338-e3a1e267116a)
+![image](https://github.com/user-attachments/assets/f49cd067-066c-4f08-a27a-adca47a0424f)
 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
